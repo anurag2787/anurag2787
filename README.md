@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+new+technologies+and+constantly+learning.;Passionate+about+full-stack+development+and+problem-solving.;Building+scalable+and+efficient+web+applications.;Experienced+in+React%2C+Next.js%2C+Node.js%2C+and+databases.;Open-source+contributor+and+tech+enthusiast.;Bridging+frontend+and+backend+for+seamless+user%C2%A0experiences.)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag2787" alt="anurag2787" /></a> </p>
 
