@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+new+technologies+and+constantly+learning.;Passionate+about+full-stack+development+and+problem-solving.;Building+scalable+and+efficient+web+applications.;Experienced+in+React%2C+Next.js%2C+Node.js%2C+and+databases.;Open-source+contributor+and+tech+enthusiast.;Bridging+frontend+and+backend+for+seamless+user%C2%A0experiences." alt="Typing SVG" />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag2787" alt="anurag2787" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=anurag2787&theme=tokyonight" alt="anurag2787" /></a> </p>
 
 - 🔭 I’m currently working on [Bitebox](https://github.com/M-ayank2005/BiteBox)
 
@@ -30,3 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag2787&show_icons=true&theme=dark&locale=en&layout=compact" alt="anurag2787" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag2787&show_icons=true&theme=dark&locale=en" alt="anurag2787" /></p>
+
