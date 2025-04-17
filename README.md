@@ -6,17 +6,17 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=anurag2787&theme=tokyonight" alt="anurag2787" /></a> </p>
 
-- 🔭 I’m currently working on [Bitebox](https://github.com/M-ayank2005/BiteBox)
+- 🔭 I’m currently contributing to **open-source projects**
 
 - 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **React,NextJs,NodeJs,Sqlite3**
 
-- 📫 How to reach me **anuragyadav2787@gmail.com**
+- 📫 How to reach me [anuragyadav2787@gmail.com](mailto:anuragyadav2787@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rDj56luBG9RYgqhuBfB2VJYPDBdIOmGa/view?usp=drivesdk](https://drive.google.com/file/d/1rDj56luBG9RYgqhuBfB2VJYPDBdIOmGa/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v3ck7Q77Q27OUQcVLQ3ELZ5cQqaOg3tU/view?usp=drivesdk)
 
-- ⚡ Fun fact **Loves Tea more than the Coffee**
+- ⚡ Fun fact **I can forget to eat, but never forget to commit my code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
