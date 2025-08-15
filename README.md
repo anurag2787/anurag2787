@@ -16,7 +16,7 @@
 
 - 📫 How to reach me [anuragyadav2787@gmail.com](mailto:anuragyadav2787@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v3ck7Q77Q27OUQcVLQ3ELZ5cQqaOg3tU/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1uNHihlXVYNhzhx96QtGcUtASGuT-bApy/view?usp=sharing)
 
 - ⚡ Fun fact **I can forget to eat, but never forget to commit my code**
 
