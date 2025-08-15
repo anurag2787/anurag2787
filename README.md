@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Exploring+new+technologies+and+constantly+learning.;Passionate+about+full-stack+development+and+problem-solving.;Building+scalable+and+efficient+web+applications.;Experienced+in+React%2C+Next.js%2C+Node.js%2C+and+databases.;Open-source+contributor+and+tech+enthusiast.;Bridging+frontend+and+backend+for+seamless+user%C2%A0experiences." alt="Typing SVG" />
 </div>
 
-<img width="1200" height="600" alt="ChatGPT Image Aug 15, 2025, 07_12_44 PM" src="https://github.com/user-attachments/assets/8864de4b-dc5d-4178-83b9-2bf240f5256f" />
+<img width="700" alt="ChatGPT Image Aug 15, 2025, 07_12_44 PM" src="https://github.com/user-attachments/assets/8864de4b-dc5d-4178-83b9-2bf240f5256f" />
 
 </div>
 
