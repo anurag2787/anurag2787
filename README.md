@@ -27,6 +27,8 @@
 
 [![An image of @anurag27878's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anurag27878)](https://holopin.io/@anurag27878)
 
+![Open Source Contributions](https://ossmarkdown.vercel.app/api/card/anurag2787)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag_yadav.03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-iiitl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragyadav2787@gmail.com) 
 
