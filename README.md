@@ -8,6 +8,12 @@
   <img width="1200" height="480" alt="Untitled design" src="https://github.com/user-attachments/assets/63ef232d-a5bb-47bf-b2e7-61af1283d0a9" />
 </div>
 
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=anurag2787" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=anurag2787" width="1" height="1" />
+  </a>
+</div>
+
 </div>
 
 -  ❣ You know what? **I love Contributing to Open Source 🩵**.
