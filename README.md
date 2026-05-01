@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Turning coffee into code
+- 💬 Ask me about **Turning coffee into code**
 
 - 💻 I love creating things people enjoy using.
 
@@ -30,8 +30,7 @@
 
 - 🌐 Check out my portfolio [My Portfolio](https://anurag2787.vercel.app) 
 
-- ⚡ Fun fact **I can forget to eat, but never forget to commit my code**
-
+<!-- - ⚡ Fun fact **I can forget to eat, but never forget to commit my code** !-->
 
 [![An image of @anurag27878's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anurag27878)](https://holopin.io/@anurag27878)
 
